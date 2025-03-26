@@ -1,2 +1,0 @@
-# concerto-product
-Product
